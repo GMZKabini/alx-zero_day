@@ -1,1 +1,2 @@
-echo "school"
+#!/bin/bush
+echo "The school is open"
